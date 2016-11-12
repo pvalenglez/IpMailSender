@@ -7,8 +7,8 @@ from email.mime.text import MIMEText
 
 EXTERNAL_IP_URL = 'http://checkip.dyndns.org/'
 APP_ENCODING = 'utf-8'
-CUBIETRUCK_MAIL_USER = 'cubietruckVG@gmail.com'
-CUBIETRUCK_MAIL_PASS = 'cubietruckq2w3e4'
+CUBIETRUCK_MAIL_USER = 'email'
+CUBIETRUCK_MAIL_PASS = 'password'
 
 emailFrom = ''
 emailTo = ''
